@@ -13,4 +13,6 @@ This Excel dashboard analyzes Superstore sales data across regions and products.
 - Bar chart by region
 - KPI cards
 
+## DASHBOARD:
+![Dashboard Preview](dashboard.png)
 Created by Yash Bamne
